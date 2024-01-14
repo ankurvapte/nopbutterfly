@@ -1565,6 +1565,118 @@
       "PackagePath": "staticwebassets/images/samples/product_macbook_2.jpeg"
     },
     {
+      "Id": "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/wwwroot/images/thumbs/0000002_desktops.jpg",
+      "PackagePath": "staticwebassets/images/thumbs/0000002_desktops.jpg"
+    },
+    {
+      "Id": "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/wwwroot/images/thumbs/0000002_desktops_450.jpg",
+      "PackagePath": "staticwebassets/images/thumbs/0000002_desktops_450.jpg"
+    },
+    {
+      "Id": "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/wwwroot/images/thumbs/0000003_notebooks.jpg",
+      "PackagePath": "staticwebassets/images/thumbs/0000003_notebooks.jpg"
+    },
+    {
+      "Id": "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/wwwroot/images/thumbs/0000003_notebooks_450.jpg",
+      "PackagePath": "staticwebassets/images/thumbs/0000003_notebooks_450.jpg"
+    },
+    {
+      "Id": "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/wwwroot/images/thumbs/0000004_software.jpg",
+      "PackagePath": "staticwebassets/images/thumbs/0000004_software.jpg"
+    },
+    {
+      "Id": "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/wwwroot/images/thumbs/0000004_software_450.jpg",
+      "PackagePath": "staticwebassets/images/thumbs/0000004_software_450.jpg"
+    },
+    {
+      "Id": "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/wwwroot/images/thumbs/0000005_electronics.jpeg",
+      "PackagePath": "staticwebassets/images/thumbs/0000005_electronics.jpeg"
+    },
+    {
+      "Id": "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/wwwroot/images/thumbs/0000005_electronics_450.jpeg",
+      "PackagePath": "staticwebassets/images/thumbs/0000005_electronics_450.jpeg"
+    },
+    {
+      "Id": "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/wwwroot/images/thumbs/0000009_apparel.jpeg",
+      "PackagePath": "staticwebassets/images/thumbs/0000009_apparel.jpeg"
+    },
+    {
+      "Id": "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/wwwroot/images/thumbs/0000009_apparel_450.jpeg",
+      "PackagePath": "staticwebassets/images/thumbs/0000009_apparel_450.jpeg"
+    },
+    {
+      "Id": "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/wwwroot/images/thumbs/0000013_digital-downloads.jpeg",
+      "PackagePath": "staticwebassets/images/thumbs/0000013_digital-downloads.jpeg"
+    },
+    {
+      "Id": "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/wwwroot/images/thumbs/0000013_digital-downloads_450.jpeg",
+      "PackagePath": "staticwebassets/images/thumbs/0000013_digital-downloads_450.jpeg"
+    },
+    {
+      "Id": "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/wwwroot/images/thumbs/0000020_build-your-own-computer.jpeg",
+      "PackagePath": "staticwebassets/images/thumbs/0000020_build-your-own-computer.jpeg"
+    },
+    {
+      "Id": "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/wwwroot/images/thumbs/0000020_build-your-own-computer_415.jpeg",
+      "PackagePath": "staticwebassets/images/thumbs/0000020_build-your-own-computer_415.jpeg"
+    },
+    {
+      "Id": "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/wwwroot/images/thumbs/0000022_digital-storm-vanquish-3-custom-performance-pc.jpeg",
+      "PackagePath": "staticwebassets/images/thumbs/0000022_digital-storm-vanquish-3-custom-performance-pc.jpeg"
+    },
+    {
+      "Id": "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/wwwroot/images/thumbs/0000022_digital-storm-vanquish-3-custom-performance-pc_415.jpeg",
+      "PackagePath": "staticwebassets/images/thumbs/0000022_digital-storm-vanquish-3-custom-performance-pc_415.jpeg"
+    },
+    {
+      "Id": "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/wwwroot/images/thumbs/0000023_lenovo-ideacentre-600-all-in-one-pc.jpeg",
+      "PackagePath": "staticwebassets/images/thumbs/0000023_lenovo-ideacentre-600-all-in-one-pc.jpeg"
+    },
+    {
+      "Id": "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/wwwroot/images/thumbs/0000023_lenovo-ideacentre-600-all-in-one-pc_415.jpeg",
+      "PackagePath": "staticwebassets/images/thumbs/0000023_lenovo-ideacentre-600-all-in-one-pc_415.jpeg"
+    },
+    {
+      "Id": "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/wwwroot/images/thumbs/0000023_lenovo-ideacentre-600-all-in-one-pc_70.jpeg",
+      "PackagePath": "staticwebassets/images/thumbs/0000023_lenovo-ideacentre-600-all-in-one-pc_70.jpeg"
+    },
+    {
+      "Id": "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/wwwroot/images/thumbs/0000023_lenovo-ideacentre-600-all-in-one-pc_80.jpeg",
+      "PackagePath": "staticwebassets/images/thumbs/0000023_lenovo-ideacentre-600-all-in-one-pc_80.jpeg"
+    },
+    {
+      "Id": "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/wwwroot/images/thumbs/0000024_apple-macbook-pro-13-inch.jpeg",
+      "PackagePath": "staticwebassets/images/thumbs/0000024_apple-macbook-pro-13-inch.jpeg"
+    },
+    {
+      "Id": "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/wwwroot/images/thumbs/0000024_apple-macbook-pro-13-inch_415.jpeg",
+      "PackagePath": "staticwebassets/images/thumbs/0000024_apple-macbook-pro-13-inch_415.jpeg"
+    },
+    {
+      "Id": "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/wwwroot/images/thumbs/0000041_htc-one-m8-android-l-50-lollipop.jpeg",
+      "PackagePath": "staticwebassets/images/thumbs/0000041_htc-one-m8-android-l-50-lollipop.jpeg"
+    },
+    {
+      "Id": "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/wwwroot/images/thumbs/0000041_htc-one-m8-android-l-50-lollipop_415.jpeg",
+      "PackagePath": "staticwebassets/images/thumbs/0000041_htc-one-m8-android-l-50-lollipop_415.jpeg"
+    },
+    {
+      "Id": "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/wwwroot/images/thumbs/0000074_25-virtual-gift-card.jpeg",
+      "PackagePath": "staticwebassets/images/thumbs/0000074_25-virtual-gift-card.jpeg"
+    },
+    {
+      "Id": "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/wwwroot/images/thumbs/0000074_25-virtual-gift-card_415.jpeg",
+      "PackagePath": "staticwebassets/images/thumbs/0000074_25-virtual-gift-card_415.jpeg"
+    },
+    {
+      "Id": "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/wwwroot/images/thumbs/0000077_banner_1.webp",
+      "PackagePath": "staticwebassets/images/thumbs/0000077_banner_1.webp"
+    },
+    {
+      "Id": "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/wwwroot/images/thumbs/0000078_banner_2.webp",
+      "PackagePath": "staticwebassets/images/thumbs/0000078_banner_2.webp"
+    },
+    {
       "Id": "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/wwwroot/images/thumbs/placeholder.txt",
       "PackagePath": "staticwebassets/images/thumbs/placeholder.txt"
     },
