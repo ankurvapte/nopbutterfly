@@ -1,0 +1,11 @@
+{
+    "Group": "Ninja Group",
+    "FriendlyName": "NinjaGroup",
+    "SystemName": "Ninja.PlugSimple",
+    "Version": "1.00",
+    "SupportedVersions": [ "4.60" ],
+    "Author": "Ankur Apte",
+    "DisplayOrder": 1,
+    "FileName": "Nop.Plugin.Ninja.PlugSimple.dll",
+    "Description": "Simple Plugin Created for Verification"
+  }
