@@ -309,3 +309,4 @@
 /Users/ankurapte/Documents/Ankur/nopbutterfly/src/Libraries/Nop.Data/obj/Debug/net7.0/refint/Nop.Data.dll
 /Users/ankurapte/Documents/Ankur/nopbutterfly/src/Libraries/Nop.Data/obj/Debug/net7.0/Nop.Data.pdb
 /Users/ankurapte/Documents/Ankur/nopbutterfly/src/Libraries/Nop.Data/obj/Debug/net7.0/ref/Nop.Data.dll
+/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Libraries/Nop.Data/obj/Debug/net7.0/Nop.Data.sourcelink.json

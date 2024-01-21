@@ -307,3 +307,4 @@
 /Users/ankurapte/Documents/Ankur/nopbutterfly/src/Plugins/NOP.Plugin.Ninja.PlugSimple/obj/Debug/net7.0/refint/NOP.Plugin.Ninja.PlugSimple.dll
 /Users/ankurapte/Documents/Ankur/nopbutterfly/src/Plugins/NOP.Plugin.Ninja.PlugSimple/obj/Debug/net7.0/NOP.Plugin.Ninja.PlugSimple.pdb
 /Users/ankurapte/Documents/Ankur/nopbutterfly/src/Plugins/NOP.Plugin.Ninja.PlugSimple/obj/Debug/net7.0/ref/NOP.Plugin.Ninja.PlugSimple.dll
+/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Plugins/Nop.Plugin.Ninja.PlugSimple/obj/Debug/net7.0/NOP.Plugin.Ninja.PlugSimple.sourcelink.json

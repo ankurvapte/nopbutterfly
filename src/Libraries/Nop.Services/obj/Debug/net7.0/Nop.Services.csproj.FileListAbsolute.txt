@@ -311,3 +311,4 @@
 /Users/ankurapte/Documents/Ankur/nopbutterfly/src/Libraries/Nop.Services/obj/Debug/net7.0/refint/Nop.Services.dll
 /Users/ankurapte/Documents/Ankur/nopbutterfly/src/Libraries/Nop.Services/obj/Debug/net7.0/Nop.Services.pdb
 /Users/ankurapte/Documents/Ankur/nopbutterfly/src/Libraries/Nop.Services/obj/Debug/net7.0/ref/Nop.Services.dll
+/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Libraries/Nop.Services/obj/Debug/net7.0/Nop.Services.sourcelink.json

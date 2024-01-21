@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Nop.Web.Framework is a class library project containing some common presentation " +
     "things for Nop.Web project")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("4.5.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("4.5.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("4.5.0.0+e4fe314e748516e03f179500ee44fa598b64b19e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nop.Web.Framework")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nop.Web.Framework")]
 [assembly: System.Reflection.AssemblyVersionAttribute("4.5.0.0")]
