@@ -17,7 +17,7 @@ using System.Reflection;
     " writing to a database or other data store. It helps separate data-access logic " +
     "from your business objects.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("4.5.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("4.5.0.0+196f8d96b3ba37396b17b76994a06bcc08bc5621")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("4.5.0.0+dea2fdcdeb68c72e5e816dc1965a1bda75cfc84a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nop.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nop.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("4.5.0.0")]
