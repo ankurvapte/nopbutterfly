@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "vgm4GmBCaf7AiYHxRye7NqA2yB+Bgs7M4JjKlpfjZ5dMsPGQtEzPQiMILDNRqcIL0JavnmJGJwpWNwRD9hyl0w==",
+  "dgSpecHash": "jwctdG0sowWeFPuAq86viIeujOQe/P/PcopUm/fG1oDl2H5p9LjqojweuHuA/Cf2738XnPpWTxpYMKbGi6gSrg==",
   "success": true,
   "projectFilePath": "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Libraries/Nop.Core/Nop.Core.csproj",
   "expectedPackageFiles": [
@@ -235,5 +235,16 @@
     "/Users/ankurapte/.nuget/packages/system.xml.xmldocument/4.3.0/system.xml.xmldocument.4.3.0.nupkg.sha512",
     "/Users/ankurapte/.nuget/packages/system.xml.xmlserializer/4.3.0/system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Azure.Identity' 1.8.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-5mfx-4wcx-rv27",
+      "libraryId": "Azure.Identity",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
 }
