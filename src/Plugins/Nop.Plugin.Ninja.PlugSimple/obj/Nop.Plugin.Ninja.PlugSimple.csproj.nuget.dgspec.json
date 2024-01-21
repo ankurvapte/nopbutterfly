@@ -346,6 +346,9 @@
               },
               "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web.Framework/Nop.Web.Framework.csproj": {
                 "projectPath": "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web.Framework/Nop.Web.Framework.csproj"
+              },
+              "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/Nop.Web.csproj": {
+                "projectPath": "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/Nop.Web.csproj"
               }
             }
           }
@@ -452,6 +455,75 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/Nop.Web.csproj": {
+      "version": "4.5.0",
+      "restore": {
+        "projectUniqueName": "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/Nop.Web.csproj",
+        "projectName": "Nop.Web",
+        "projectPath": "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/Nop.Web.csproj",
+        "packagesPath": "/Users/ankurapte/.nuget/packages/",
+        "outputPath": "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ankurapte/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Libraries/Nop.Core/Nop.Core.csproj": {
+                "projectPath": "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Libraries/Nop.Core/Nop.Core.csproj"
+              },
+              "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Libraries/Nop.Data/Nop.Data.csproj": {
+                "projectPath": "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Libraries/Nop.Data/Nop.Data.csproj"
+              },
+              "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Libraries/Nop.Services/Nop.Services.csproj": {
+                "projectPath": "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Libraries/Nop.Services/Nop.Services.csproj"
+              },
+              "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web.Framework/Nop.Web.Framework.csproj": {
+                "projectPath": "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web.Framework/Nop.Web.Framework.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

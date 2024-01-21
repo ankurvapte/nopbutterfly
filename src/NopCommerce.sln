@@ -63,7 +63,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nop.Plugin.Payments.CyberSo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nop.Plugin.Misc.Zettle", "Plugins\Nop.Plugin.Misc.Zettle\Nop.Plugin.Misc.Zettle.csproj", "{80D363F0-C1C1-41CF-B7E0-11C6F6302D33}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nop.Plugin.Ninja.PlugSimple", "Plugins\NOP.Plugin.Ninja.PlugSimple\NOP.Plugin.Ninja.PlugSimple.csproj", "{E54480F5-D9F3-4BF0-B738-899C68651874}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nop.Plugin.Ninja.PlugSimple", "Plugins\Nop.Plugin.Ninja.PlugSimple\Nop.Plugin.Ninja.PlugSimple.csproj", "{E54480F5-D9F3-4BF0-B738-899C68651874}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

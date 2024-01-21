@@ -308,9 +308,9 @@
 /Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web.Framework/obj/Debug/net7.0/Nop.Web.Framework.AssemblyInfoInputs.cache
 /Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web.Framework/obj/Debug/net7.0/Nop.Web.Framework.AssemblyInfo.cs
 /Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web.Framework/obj/Debug/net7.0/Nop.Web.Framework.csproj.CoreCompileInputs.cache
+/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web.Framework/obj/Debug/net7.0/Nop.Web.Framework.sourcelink.json
 /Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web.Framework/obj/Debug/net7.0/Nop.Web.Framework.csproj.CopyComplete
 /Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web.Framework/obj/Debug/net7.0/Nop.Web.Framework.dll
 /Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web.Framework/obj/Debug/net7.0/refint/Nop.Web.Framework.dll
 /Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web.Framework/obj/Debug/net7.0/Nop.Web.Framework.pdb
 /Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web.Framework/obj/Debug/net7.0/ref/Nop.Web.Framework.dll
-/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web.Framework/obj/Debug/net7.0/Nop.Web.Framework.sourcelink.json

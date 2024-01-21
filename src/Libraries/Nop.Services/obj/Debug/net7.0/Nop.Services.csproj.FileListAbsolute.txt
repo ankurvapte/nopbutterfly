@@ -306,9 +306,9 @@
 /Users/ankurapte/Documents/Ankur/nopbutterfly/src/Libraries/Nop.Services/obj/Debug/net7.0/Nop.Services.AssemblyInfoInputs.cache
 /Users/ankurapte/Documents/Ankur/nopbutterfly/src/Libraries/Nop.Services/obj/Debug/net7.0/Nop.Services.AssemblyInfo.cs
 /Users/ankurapte/Documents/Ankur/nopbutterfly/src/Libraries/Nop.Services/obj/Debug/net7.0/Nop.Services.csproj.CoreCompileInputs.cache
+/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Libraries/Nop.Services/obj/Debug/net7.0/Nop.Services.sourcelink.json
 /Users/ankurapte/Documents/Ankur/nopbutterfly/src/Libraries/Nop.Services/obj/Debug/net7.0/Nop.Services.csproj.CopyComplete
 /Users/ankurapte/Documents/Ankur/nopbutterfly/src/Libraries/Nop.Services/obj/Debug/net7.0/Nop.Services.dll
 /Users/ankurapte/Documents/Ankur/nopbutterfly/src/Libraries/Nop.Services/obj/Debug/net7.0/refint/Nop.Services.dll
 /Users/ankurapte/Documents/Ankur/nopbutterfly/src/Libraries/Nop.Services/obj/Debug/net7.0/Nop.Services.pdb
 /Users/ankurapte/Documents/Ankur/nopbutterfly/src/Libraries/Nop.Services/obj/Debug/net7.0/ref/Nop.Services.dll
-/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Libraries/Nop.Services/obj/Debug/net7.0/Nop.Services.sourcelink.json

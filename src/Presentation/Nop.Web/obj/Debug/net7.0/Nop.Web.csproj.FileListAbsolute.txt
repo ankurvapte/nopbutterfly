@@ -553,13 +553,14 @@
 /Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/obj/Debug/net7.0/Nop.Web.MvcApplicationPartsAssemblyInfo.cache
 /Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/obj/Debug/net7.0/Nop.Web.RazorAssemblyInfo.cache
 /Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/obj/Debug/net7.0/Nop.Web.RazorAssemblyInfo.cs
+/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/obj/Debug/net7.0/Nop.Web.sourcelink.json
+/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/obj/Debug/net7.0/staticwebassets.build.json
+/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/obj/Debug/net7.0/staticwebassets.development.json
 /Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/obj/Debug/net7.0/staticwebassets/msbuild.Nop.Web.Microsoft.AspNetCore.StaticWebAssets.props
 /Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/obj/Debug/net7.0/staticwebassets/msbuild.build.Nop.Web.props
 /Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Nop.Web.props
 /Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Nop.Web.props
 /Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/obj/Debug/net7.0/staticwebassets.pack.json
-/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/obj/Debug/net7.0/staticwebassets.build.json
-/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/obj/Debug/net7.0/staticwebassets.development.json
 /Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/obj/Debug/net7.0/scopedcss/bundle/Nop.Web.styles.css
 /Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/obj/Debug/net7.0/Nop.Web.csproj.CopyComplete
 /Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/obj/Debug/net7.0/Nop.Web.dll
@@ -567,4 +568,3 @@
 /Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/obj/Debug/net7.0/Nop.Web.pdb
 /Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/obj/Debug/net7.0/Nop.Web.genruntimeconfig.cache
 /Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/obj/Debug/net7.0/ref/Nop.Web.dll
-/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/obj/Debug/net7.0/Nop.Web.sourcelink.json

@@ -5268,6 +5268,25 @@
           "bin/placeholder/Nop.Services.dll": {}
         }
       },
+      "Nop.Web/4.5.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Nop.Core": "4.5.0",
+          "Nop.Data": "4.5.0",
+          "Nop.Services": "4.5.0",
+          "Nop.Web.Framework": "4.5.0"
+        },
+        "compile": {
+          "bin/placeholder/Nop.Web.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Nop.Web.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
       "Nop.Web.Framework/4.5.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -14486,6 +14505,11 @@
       "path": "../../Libraries/Nop.Services/Nop.Services.csproj",
       "msbuildProject": "../../Libraries/Nop.Services/Nop.Services.csproj"
     },
+    "Nop.Web/4.5.0": {
+      "type": "project",
+      "path": "../../Presentation/Nop.Web/Nop.Web.csproj",
+      "msbuildProject": "../../Presentation/Nop.Web/Nop.Web.csproj"
+    },
     "Nop.Web.Framework/4.5.0": {
       "type": "project",
       "path": "../../Presentation/Nop.Web.Framework/Nop.Web.Framework.csproj",
@@ -14496,6 +14520,7 @@
     "net7.0": [
       "Nop.Core >= 4.5.0",
       "Nop.Services >= 4.5.0",
+      "Nop.Web >= 4.5.0",
       "Nop.Web.Framework >= 4.5.0"
     ]
   },
@@ -14505,11 +14530,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Plugins/NOP.Plugin.Ninja.PlugSimple/NOP.Plugin.Ninja.PlugSimple.csproj",
-      "projectName": "NOP.Plugin.Ninja.PlugSimple",
-      "projectPath": "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Plugins/NOP.Plugin.Ninja.PlugSimple/NOP.Plugin.Ninja.PlugSimple.csproj",
+      "projectUniqueName": "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Plugins/Nop.Plugin.Ninja.PlugSimple/Nop.Plugin.Ninja.PlugSimple.csproj",
+      "projectName": "Nop.Plugin.Ninja.PlugSimple",
+      "projectPath": "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Plugins/Nop.Plugin.Ninja.PlugSimple/Nop.Plugin.Ninja.PlugSimple.csproj",
       "packagesPath": "/Users/ankurapte/.nuget/packages/",
-      "outputPath": "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Plugins/NOP.Plugin.Ninja.PlugSimple/obj/",
+      "outputPath": "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Plugins/Nop.Plugin.Ninja.PlugSimple/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ankurapte/.nuget/NuGet/NuGet.Config"
@@ -14532,6 +14557,9 @@
             },
             "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web.Framework/Nop.Web.Framework.csproj": {
               "projectPath": "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web.Framework/Nop.Web.Framework.csproj"
+            },
+            "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/Nop.Web.csproj": {
+              "projectPath": "/Users/ankurapte/Documents/Ankur/nopbutterfly/src/Presentation/Nop.Web/Nop.Web.csproj"
             }
           }
         }
